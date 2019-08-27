@@ -13,7 +13,7 @@ npm run ios
 npm run android
 ```
 
-Create new TypeScript project:
+Create a new TypeScript project:
 
 ```
 react-native init ReactNativeTypeScript --template typescript
