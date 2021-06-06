@@ -22,7 +22,7 @@
     "@types/react-native": "0.60.8",
     "@types/react-test-renderer": "16.9.0",
     "babel-jest": "24.9.0",
-    "eslint": "6.2.2",
+    "eslint": "7.28.0",
     "jest": "24.9.0",
     "metro-react-native-babel-preset": "0.56.0",
     "react-test-renderer": "16.8.6",
