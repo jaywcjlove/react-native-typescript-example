@@ -1,20 +1,24 @@
 React Native TypeScript Example
 ----
 
-```bash
-# Run instructions for iOS:
-npm run ios
-# - or -
-# • Open ReactNativeTypeScript/ios/ReactNativeTypeScript.xcworkspace in Xcode or run "xed -b ios"
-# • Hit the Run button
+```shell
+Run instructions for Android:
+  • Have an Android emulator running (quickest way to get started), or a device connected.
+  • cd "/Users/wangchujiang/git-project/@uiw/react-native/AwesomeTSProject" && npx react-native run-android
 
-# Run instructions for Android:
-# Have an Android emulator running (quickest way to get started), or a device connected.
-npm run android
+Run instructions for iOS:
+  • cd "/Users/wangchujiang/git-project/@uiw/react-native/AwesomeTSProject" && npx react-native run-ios
+  - or -
+  • Open AwesomeTSProject/ios/AwesomeTSProject.xcworkspace in Xcode or run "xed -b ios"
+  • Hit the Run button
+
+Run instructions for macOS:
+  • See https://aka.ms/ReactNativeGuideMacOS for the latest up-to-date instructions.
 ```
 
 Create a new TypeScript project:
 
 ```
-react-native init ReactNativeTypeScript --template typescript
+npx react-native init AwesomeTSProject --template react-native-template-typescript
 ```
+
