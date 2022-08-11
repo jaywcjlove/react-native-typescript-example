@@ -1,13 +1,13 @@
 React Native TypeScript Example
-----
+===
 
 ```shell
 Run instructions for Android:
   • Have an Android emulator running (quickest way to get started), or a device connected.
-  • cd "/Users/wangchujiang/git-project/@uiw/react-native/AwesomeTSProject" && npx react-native run-android
+  • cd "/Users/wangchujiang/git-project/demo/AwesomeTSProject" && npx react-native run-android
 
 Run instructions for iOS:
-  • cd "/Users/wangchujiang/git-project/@uiw/react-native/AwesomeTSProject" && npx react-native run-ios
+  • cd "/Users/wangchujiang/git-project/demo/AwesomeTSProject" && npx react-native run-ios
   - or -
   • Open AwesomeTSProject/ios/AwesomeTSProject.xcworkspace in Xcode or run "xed -b ios"
   • Hit the Run button
